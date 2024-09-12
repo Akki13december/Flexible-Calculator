@@ -31,5 +31,3 @@ The project includes unit tests written using JUnit 5. To run the tests:
 ## Dependencies
 - Java 8 or higher
 - JUnit 5 for testing
-## Conclusion
-This flexible calculator is modular, extensible, and maintains clean code by adhering to the Open-Closed Principle. It supports chaining operations, includes robust error handling, and is compatible with IoC frameworks, reflecting solid software engineering practices.
